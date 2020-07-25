@@ -27,3 +27,10 @@ Balance | Alignment | Proximity | Contrast | Repititon | Space
 columns | margins | flow lines | sectors
 
 **Typography**
+baseline
+X-height
+upper and lower case
+font - set of letter forms
+typeface - design of letter forms, known as characters or glyph
+terminal - end of any stroke
+serif | san serif | script
