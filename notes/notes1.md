@@ -33,4 +33,7 @@ upper and lower case
 font - set of letter forms
 typeface - design of letter forms, known as characters or glyph
 terminal - end of any stroke
-serif | san serif | script
+serif | san serif | script | mono | handwritten | decorative 
+Ligatures
+pt or points 
+72pt = 1 inch = 6p
