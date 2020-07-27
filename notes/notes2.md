@@ -29,3 +29,9 @@ Goals:
 Empathy Maps
 - put yourself in shoes of each persona
 - what does user **hear**, **see**, **saying and doing**, **pains or dislikes**, **gains and likes**, **thinks and feels**
+
+KPI - Key Performance Indicator
+
+User Flows
+- as few clicks a possible, the easier the better
+- guide users through buttons 

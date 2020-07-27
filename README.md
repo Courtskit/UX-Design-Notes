@@ -4,7 +4,7 @@
 
 1. [What is Graphic Design](./notes/notes1.md)
 2. [Creating a User Experience](./notes/notes2.md)
-3. [](./notes/notes3.md)
+3. [UX Design Patterns](./notes/notes3.md)
 
 ---
 ### Let's Connect
